@@ -4,9 +4,12 @@ website https://eliottrato.github.io/
 <!DOCTYPE html>
 <html>
 <head>
-   <title>Web Programming</title>
+<title>Web Programming</title>
+<!-- link to main stylesheet -->
+<link rel="stylesheet" type="text/css" href="/css/main.css">
 </head>
 <body>
+
 <nav>
  <ul>
    <li><a href="/">Home</a></li>
