@@ -9,7 +9,6 @@ website https://eliottrato.github.io/
 <link rel="stylesheet" type="text/css" href="/css/main.css">
 </head>
 <body>
-
 <nav>
  <ul>
    <li><a href="/">Home</a></li>
