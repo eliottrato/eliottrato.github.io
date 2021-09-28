@@ -1,10 +1,10 @@
 # eliottrato.github.io
 website https://eliottrato.github.io/
 
-!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
-<title>Web Programming</title>
+   <title>Web Programming</title>
 </head>
 <body>
 <nav>
@@ -14,7 +14,7 @@ website https://eliottrato.github.io/
    <li><a href="/about">About Me</a><li>
  </ul>
 </nav>
-<div class="container">
+ <div class="container">
  <div class="blurb">
  <h1>Hello World</h1>
  <p>Your page ….</p>
