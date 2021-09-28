@@ -11,7 +11,7 @@ website https://eliottrato.github.io/
  <ul>
    <li><a href="/">Home</a></li>
    <li><a href="/blog">Blog</a></li>
-   
+   <li><a href="/about">About Me</a><li>
  </ul>
 </nav>
 <div class="container">
@@ -20,8 +20,8 @@ website https://eliottrato.github.io/
  <p>Your page ….</p>
 <footer>
  <ul>
- <li><a href="https://github.com/eliottrato">github.com/eliottrato</a></li>
- <li><a href="https://eliottrato.github.io"> eliottrato.github.io </a></li>
+    <li><a href="https://github.com/eliottrato">github.com/eliottrato</a></li>
+    <li><a href="https://eliottrato.github.io"> eliottrato.github.io </a></li>
 </ul>
 </footer>
 </body>
