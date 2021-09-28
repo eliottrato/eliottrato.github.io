@@ -9,8 +9,9 @@ website https://eliottrato.github.io/
 <body>
 <nav>
  <ul>
- <li><a href="/">Home</a></li>
- <li><a href="/blog">Blog</a></li>
+   <li><a href="/">Home</a></li>
+   <li><a href="/blog">Blog</a></li>
+   
  </ul>
 </nav>
 <div class="container">
