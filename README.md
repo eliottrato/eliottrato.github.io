@@ -1,7 +1,7 @@
 # eliottrato.github.io
 website https://eliottrato.github.io/
 
-<!DOCTYPE html>
+!DOCTYPE html>
 <html>
 <head>
 <title>Web Programming</title>
