@@ -23,7 +23,7 @@ website https://eliottrato.github.io/
  <p>Your page ….</p>
 <footer>
  <ul>
- <li><a href="https://github.com/eliottrato">github.com/eliottratol</a></li>
+ <li><a href="https://github.com/eliottrato">github.com/eliottrato</a></li>
  <li><a href="https://eliottrato.github.io"> eliottrato.github.io </a></li>
 </ul>
 </footer>
